@@ -78,5 +78,3 @@ National Society of Black Engineers - Social Chair | UH Chapter | Aug 2023 - May
 ## Additional
 
 - U.S. Citizen | Houston, TX
-- Target compensation: ~$40/hr or equivalent
-- Daily tools: Claude, ChatGPT, Cursor, Microsoft 365, Confluence, ServiceNow

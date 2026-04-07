@@ -21,7 +21,10 @@ Read cv.md and config/profile.yml. Require a JD before generating.
 - Formatting: Arial, navy blue headers (#1F4E79), gray body (#595959), right-aligned dates
 - Section order: Summary -> Education -> Experience -> Projects -> Certifications -> Leadership
 - Do NOT fabricate missing skills — flag gaps to Eze after generating
+- Do NOT include target compensation in the resume
+- Do NOT include a "daily tools" or "tools" line in Additional — it reads as filler
+- Additional section: "U.S. Citizen | [City, ST]" only, or omit entirely
 
 ## Output
 
-Save to output/Ugwueze_Eze_[RoleName]_Resume.docx and .pdf
+Save to output/Ugwueze_Eze_[RoleName]_Resume.md (markdown only — convert to DOCX/PDF manually via Google Docs or Word)
