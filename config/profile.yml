@@ -1,0 +1,53 @@
+name: Ugwueze J Eze
+preferred_name: Eze
+email: DJ.EZE00@gmail.com
+phone: +1-832-847-8162
+location: Houston, TX
+github: https://github.com/DJEZE
+
+target_hourly: 40
+target_annual: 83200
+compensation_note: "~$40/hr or equivalent. Open to W-9 contractor arrangements."
+
+relocation:
+  - New York, NY
+  - Washington, DC
+  - Houston, TX
+remote: true
+clearance: "U.S. Citizen | Public Trust eligible"
+
+archetypes:
+  - IT Support / Helpdesk
+  - Technical Project Manager
+  - Customer Success Manager
+  - Developer / Technical Support
+  - AI-Adjacent
+  - Paid Media / Marketing Ops
+
+strengths:
+  - 5+ years IT support and operations
+  - Python scripting and REST API automation
+  - AI platform fluency - Claude, ChatGPT, LLM API integration (production via SevensCleaners)
+  - Documentation and knowledge base development (Confluence, runbooks)
+  - Microsoft 365 and SSO/identity management
+  - Client ownership and stakeholder communication
+  - Solo project delivery - SevensCleaners (zero to live, production)
+  - Event production and operations - DJEZE Events (budgets up to $15K)
+  - Network troubleshooting - TCP/IP, DNS, DHCP, SolarWinds
+  - Endpoint management and patch compliance (WSUS, Ansible)
+
+gaps:
+  - Tableau / Alteryx
+  - TypeScript
+  - Enterprise CRM at scale (Salesforce, HubSpot)
+  - Formal PMP (CAPM in progress)
+  - Ad spend at significant scale
+
+scoring_weights:
+  role_match: 0.25
+  compensation: 0.20
+  ai_relevance: 0.15
+  growth_potential: 0.15
+  location_fit: 0.10
+  company_quality: 0.10
+  gap_risk: 0.05
