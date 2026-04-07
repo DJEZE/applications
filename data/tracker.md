@@ -15,3 +15,4 @@
 | 2025 | Frame Data AI | AI Engineer | AI-Adjacent | - | Applied | |
 | 2025 | NJ Law Firm | Helpdesk Technician | IT Support | - | Applied | |
 | 2025 | Speakeasy | Business Development Associate | BizDev | - | Applied | |
+| 2026-04-07 | American Airlines | Associate Analyst, IT Cybersecurity Incident Response | IT Support / Security Ops | 2.97 C+ | Pass | Below B- threshold. SIEM gap, FAA/ANSP compliance gap, comp likely under target, DFW not a target city. |
