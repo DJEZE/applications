@@ -18,3 +18,4 @@
 | 2026-04-07 | American Airlines | Associate Analyst, IT Cybersecurity Incident Response | IT Support / Security Ops | 2.97 C+ | Pass | Below B- threshold. SIEM gap, FAA/ANSP compliance gap, comp likely under target, DFW not a target city. |
 | 2026-04-07 | Kastle Systems | Project Manager | Technical PM | 3.2 B- | Applying | Houston on-site. Direct TPM archetype. DJEZE Events anchor. Gap: construction/access control domain. |
 | 2026-04-07 | Nebius | Technical Project Manager | Technical PM | 4.28 A- | Applying | Remote. $100K-$140K. AI cloud infrastructure. Best role so far. Gap: data center/GPU hardware (JD explicitly lenient). |
+| 2026-04-07 | Uber | Executive Tech Support | IT Support | 3.03 B- | Applying | NYC on-site. $44-49/hr above target. Uber brand. Gap: no direct exec support experience (hard minimum). Applied at Eze's direction. |
